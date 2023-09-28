@@ -121,3 +121,5 @@ sudo userdel olduser         # Delete a user
 - Use Case: Managing user access to the system.
 
 ## Resources: 
+
+[Introduction to Linux](https://www.freecodecamp.org/news/introduction-to-linux/)
